@@ -1,0 +1,16 @@
+{
+  "name": "redactor",
+  "main": ["redactor.js","redactor.css"],
+  "version": "10.0.3",
+  "authors": [
+    "Imperavi <support@imperavi.com>"
+  ],
+  "description": "redactor - personal usage",
+  "license": "http://imperavi.com/redactor/license/",
+  "homepage": "http://imperavi.com/redactor/",
+  "private": true,
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  }
+
+}
